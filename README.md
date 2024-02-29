@@ -1,7 +1,7 @@
 # PaceandLoveKeyboard
 受稚晖君启发，当时的铝厂的F96正好罢工，于是准备自己做一款键盘。
 改装的铝厂F96键盘
-·![](https://github.com/Marspacecraft/paceandlovekeyboard/image/1.jpeg)    
+·![](https://github.com/Marspacecraft/PaceandLoveKeyboard/blob/main/image/1.jpeg)    
 当时正好缅北内战，于是起名爱与和平键盘。
 ## 目录
     3D-freecad做的一些3D模型
