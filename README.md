@@ -41,5 +41,5 @@
     按键映射层通过修改keycombine映射的keycode实现不同层以及修改键值等的管理。
 
 ## 灯效
-    见[rgbmode.h](https://github.com/lecram/gifdec)文件说明
+    见[rgbmode.h](https://github.com/Marspacecraft/PaceandLoveKeyboard/blob/main/Frameware/PaceAndLoveKeyboard/Core/Led/rgbmode.h)文件说明
 
